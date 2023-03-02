@@ -1,0 +1,8 @@
+# Properties file for integration tests
+# Overrides application.yml default properties
+meli:
+  base:
+    url: http://fake.api.mercadolibre.com
+    
+    
+KEY_VALUE_STORE_CURRENCY_CONVERSIONS_CONTAINER_NAME: container1
